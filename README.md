@@ -1,5 +1,5 @@
 # React Page Transition Example
-# Demo
+### Demo
 [See Demo](https://react-page-transition.netlify.app/)
 ### Project Setup
 `yarn install` or `npm install`
