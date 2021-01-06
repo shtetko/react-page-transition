@@ -1,3 +1,7 @@
+#root {
+  background: rgba(0,0,0,.1);
+}
+
 /* nav bar */
 .nav-bar {
   margin: 0;
@@ -36,13 +40,16 @@
 }
 
 .page-one {
-  background: yellow;
+  color: #fff;
+  background: #fbc02d;
 }
 
 .page-two {
-  background: green;
+  color: #fff;
+  background: #00796b;
 }
 
 .page-three {
-  background: red;
+  color: #fff;
+  background: #7b1fa2;
 }

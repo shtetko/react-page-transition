@@ -18,13 +18,11 @@ const pageVariants = {
   },
   hidden: {
     opacity: 0,
-    y: 100
+    y: 200
   }
 }
 
 const pageTransitions = {
-  type: "tween",
-  ease: "easeOut",
   duration: 0.3
 }
 
